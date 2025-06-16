@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#448AFF</color>
+
+    <color name="colorAzul">#448AFF</color>
+
+
+    <color name="colorLetraPrincipal">#0D2C55</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="colorLetraGris">#9E9E9E</color>
+    <color name="colorRedondeadoGris">#f1f1f3</color>
+    <color name="colorGrisIcono">#656565</color>
+
+    <color name="colorNegro">#000000</color>
+    <color name="colorCerradoTransparente">#A6818181</color>
+
+    <color name="colorNaranja">#FF3D00</color>
+
+
+    <color name="colorGrisv1">#616161</color>
+    <color name="colorGrisv2">#4E4A4A</color>
+    <color name="colorLetraGrisV5">#474747</color>
+
+
+    <color name="colorRojoCarrito">#C8FF0000</color>
+    <color name="colorRojo">#FF0000</color>
+    <color name="colorVerde">#689f38</color>
+    <color name="ucrop_color_toolbar_widget">#FFFFFF</color>
+
+    <color name="colorSplash">#3b69b2</color>
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <color name="colorRojoCategoria">#66FF0000</color>
+    <color name="colorVerdeCategoria">#6677FF00</color>
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+    <color name="tansparentColor">#00FFFFFF</color>
+    <color name="pinkColor">#FF003B</color>
+    <color name="colorCremaV1">#fffff4</color>
+    <color name="colorCerrado">#ff6f60</color>
+    <color name="transparente">#00000000</color>
+    <color name="colorRojoApp">#d84b4b</color>
+
+    <color name="colorMoradoApp">#673AB7</color>
+
+
+</resources>
